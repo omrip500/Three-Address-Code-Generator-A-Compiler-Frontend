@@ -1,0 +1,8 @@
+int i, j, k;
+
+i = 10; j = 3; k = 4;
+
+repeat (2*i+1) {
+    k = k + j * 7;
+    write(k);
+}
