@@ -61,7 +61,6 @@ L_1:
     a = t5
     goto L_1
 L_2:
-    
     t6 = w + z
     t7 = b + c
     ifFalse t6 < t7 goto L_4
